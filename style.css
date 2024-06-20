@@ -1,0 +1,254 @@
+
+.animalScreen {
+    display: none;
+ }
+
+.betterScreen {
+    display: none;
+ }
+
+ .blobfishScreen {
+    display: none;
+ }
+
+ .lumpSuckerScreen {
+    display: none;
+ }
+
+ .bearScreen {
+    display: none;
+ }
+
+ .pigScreen {
+    display: none;
+ }
+
+ .resultButton {
+    display: none;
+ }
+
+/* Style the body with a background color or image if desired */
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #706c6c;
+    text-align: center;
+    padding: 0px;
+}
+
+/* Style the title of your story */
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Style the story opening container */
+.opening-animal {
+    background-color: #0a0909;
+    border: 10px solid #f5f1f1;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Style the story image */
+.opening-animal img {
+    justify-content: center;
+    max-width: 450px;
+    height: 450px;
+    margin-bottom: 10px;
+    border: 10px solid rgb(244, 240, 240);
+    border-radius: 10px;
+}
+
+/* Style the story opening message */
+.opening-animal h1 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+/* Style the buttons container */
+.buttons {
+    margin: 0px;
+}
+
+/* Style the option buttons */
+button {
+    font-size: 16px;
+    padding: 10px 10px;
+    margin: 10px;
+    background-color: #f3eded;
+    color: #101010;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+
+.animalScreen{    
+    background-color: #100f0f;
+    border: 10px solid #f3efef;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+}
+
+
+.blobfishScreen{
+    background-color: #080808;
+    border: 10px solid #ece5e5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+}
+
+.lumpSuckerScreen{ 
+    background-color: #0a0a0a;
+    border: 10px solid #f3f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+}
+
+.bearScreen{ 
+    background-color: #050404;
+    border: 10px solid #f5f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+}
+
+.pigScreen{ 
+    background-color: #101010;
+    border: 10px solid #f1f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+}
+
+.betterScreen{
+    background-color: #121111;
+    border: 10px solid #f5f3f3;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+}
+
+
+.betterScreen img{    
+    justify-content: center;
+    max-width: 450px;
+    height: 450px;
+    margin-bottom: 10px;
+    border: 10px solid rgb(241, 234, 234);
+    border-radius: 10px;
+}
+
+
+.animalScreen img{    
+    justify-content: center;
+    max-width: 450px;
+    height: 450px;
+    margin-bottom: 10px;
+    border: 10px solid rgb(249, 246, 246);
+    border-radius: 10px;
+}
+
+.blobfishScreen img{    
+    justify-content: center;
+    max-width: 450px;
+    height: 450px;
+    margin-bottom: 10px;
+    border: 10px solid rgb(240, 234, 234);
+    border-radius: 10px;
+}
+
+.lumpSuckerScreen img{    
+    justify-content: center;
+    max-width: 450px;
+    height: 450px;
+    margin-bottom: 10px;
+    border: 10px solid rgb(247, 243, 243);
+    border-radius: 10px;
+}
+
+.bearScreen img{
+    justify-content: center;
+    max-width: 450px;
+    height: 450px;
+    margin-bottom: 10px;
+    border: 10px solid rgb(239, 239, 239);
+    border-radius: 10px;
+}
+
+.pigScreen img{
+    justify-content: center;
+    max-width: 450px;
+    height: 450px;
+    margin-bottom: 10px;
+    border: 10px solid rgb(239, 239, 239);
+    border-radius: 10px;
+}
+
+
+
+.betterScreen h1{
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.animalScreen h1{
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.blobfishScreen h1{
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.lumpSuckerScreen h1{
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+
+.bearScreen h1{
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+
+.pigScreen h1{
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+
+
+
